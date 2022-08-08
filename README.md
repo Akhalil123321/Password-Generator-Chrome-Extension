@@ -13,7 +13,7 @@ This extension able to Generate random powerfull numbers to be used on your site
 
     3- Click Load unpacked.
 
-    4- Find and select the app or extension folder.
+    4- Find and select the extracted folder.
 
     5- Open a new tab in Chrome and then click Appsand then click the app or extension.
 

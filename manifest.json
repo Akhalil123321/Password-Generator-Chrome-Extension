@@ -1,0 +1,11 @@
+
+{
+  "manifest_version": 3,
+  "name": "Password Generator",
+  "description": "This extension able you made a powerful password",
+  "version": "1.1",
+  "action": {
+    "default_icon": "./images/icon.png",
+    "default_popup": "index.html"
+  }
+}
